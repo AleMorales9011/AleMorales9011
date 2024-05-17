@@ -1,4 +1,4 @@
-### Alejandro Morales Lozano.java
+## Alejandro Morales Lozano.java
 ```ruby
 public class AlejandroMoralesLozano {
 
@@ -10,7 +10,8 @@ public class AlejandroMoralesLozano {
 
     // Summary
     private String title = "Sr. Software Engineer";
-    private String summary = "Hard-working and always-learning software engineer with a proven track record of delivering complex projects ahead of schedule and improving team efficiency.";
+    private String summary = "Hard-working and always-learning software engineer with a proven track record of
+                              delivering complex projects ahead of schedule and improving team efficiency.";
 
     // Experience
     private Experience[] experiences = new Experience[]{
