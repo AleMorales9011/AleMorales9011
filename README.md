@@ -4,14 +4,16 @@ public class AlejandroMoralesLozano {
 
     // Personal Information
     private String name = "Alejandro Morales Lozano";
-    private String linkedIn = "https://www.linkedin.com/in/alejandromoraleslozano/";
-    private String gitHub = "https://github.com/AleMorales9011/";
+    private String LinkedIn = "https://www.linkedin.com/in/alejandromoraleslozano/";
+    private String GitHub = "https://github.com/AleMorales9011/";
     private String email = "alemorales9011@gmail.com";
 
     // Summary
     private String title = "Sr. Software Engineer";
-    private String summary = "Hard-working and always-learning software engineer with a proven track record of
-                              delivering complex projects ahead of schedule and improving team efficiency.";
+    private String summary = "My role as a DevOps Engineer has been pivotal in architecting cloud infrastructures, optimizing resource utilization, and automating processes,
+                              which resulted in a 25% average cost reduction while enhancing application availability and scalability."
+
+Currently pursuing a Bachelor's degree in Computer Software Engineering at Ampli,";
 
     // Experience
     private Experience[] experiences = new Experience[]{
