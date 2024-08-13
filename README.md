@@ -11,9 +11,8 @@ public class AlejandroMoralesLozano {
     // Summary
     private String title = "Sr. Software Engineer";
     private String summary = "My role as a DevOps Engineer has been pivotal in architecting cloud infrastructures, optimizing resource utilization, and automating processes,
-                              which resulted in a 25% average cost reduction while enhancing application availability and scalability."
-
-Currently pursuing a Bachelor's degree in Computer Software Engineering at Ampli,";
+                              which resulted in a 25% average cost reduction while enhancing application availability and scalability. Currently pursuing a Bachelor's degree
+                              in Computer Software Engineering at Ampli.";
 
     // Experience
     private Experience[] experiences = new Experience[]{
