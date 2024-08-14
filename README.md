@@ -9,11 +9,10 @@ public class AlejandroMoralesLozano {
     private String email = "alemorales9011@gmail.com";
 
     // Summary
-    private String title = "Sr. Software Engineer";
+    private String title = "Software Engineer | DevOps";
     private String summary = "My role as a DevOps Engineer has been pivotal in architecting cloud infrastructures,
-                              optimizing resource utilization, and automating processes,
-                              which resulted in a 25% average cost reduction while enhancing application availability
-                              and scalability." 
+                              optimizing resource utilization, and automating processes, which resulted in a 25%
+                              average cost reduction while enhancing application availability and scalability." 
     // Experience
     private Experience[] experiences = new Experience[]{
             new Experience(
