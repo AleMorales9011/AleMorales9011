@@ -17,16 +17,9 @@ public class AlejandroMoralesLozano {
     private Experience[] experiences = new Experience[]{
             new Experience(
                     "Sr. Data Analyst",
-                    "Beyondsoft Brasil (remote work)",
+                    "Beyondsoft Brasil",
                     "Sep 2023 - Present"
-            ),
-            new Experience(
-                    "Software Engineer (Freelance)",
-                    "Self-employed",
-                    "Sep 2019 - Present"
-            )
     };
-
     // Skills
     private String[] skills = new String[]{
             "Spanish", "English", "Portuguese", "Database Administration", "Data Engineering",
