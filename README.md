@@ -6,7 +6,6 @@ public class AlejandroMoralesLozano {
     private String name = "Alejandro Morales Lozano";
     private String linkedIn = "https://www.linkedin.com/in/alejandromoraleslozano/";
     private String gitHub = "https://github.com/AleMorales9011/";
-    private String email = "alemorales9011@gmail.com";
 
     // Summary
     private String title = "QA Automation Engineer | Test Automation | CI/CD";
