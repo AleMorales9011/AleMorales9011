@@ -10,22 +10,18 @@ public class AlejandroMoralesLozano {
 
     // Summary
     private String title = "QA Automation Engineer | Test Automation | CI/CD";
-    private String summary = "Detail-oriented QA Automation Engineer with strong experience in building robust automated test suites using Java,
-    Selenium and Cucumber. Skilled in API testing with REST Assured and Postman, and proficient in integrating automated tests into CI/CD pipelines
-    using Jenkins. Passionate about ensuring software quality through scalable, maintainable, and efficient test strategies.";
+    private String summary = "Detail-oriented QA Automation Engineer with strong experience in building robust
+    automated test suites using Java, Selenium, and Cucumber. Skilled in API testing with REST Assured and Postman,
+    and proficient in integrating automated tests into CI/CD pipelines using Jenkins. Passionate about ensuring
+ software quality through scalable, maintainable, and efficient test strategies.";
 
     // Experience
     private Experience[] experiences = new Experience[]{
         new Experience(
             "QA Automation Engineer",
             "Beyondsoft Brasil",
-            "Sep 2023 - Present"
+            "Sep 2018 - Present"
         ),
-        new Experience(
-            "QA Analyst",
-            "Confidential Project",
-            "Jan 2021 - Aug 2023"
-        )
     };
 
     // Skills
